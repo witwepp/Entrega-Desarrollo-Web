@@ -1,0 +1,12 @@
+body{
+    background-image: url(../assets/img/para\ poster\ .jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.boton1{
+    background-color: white;
+margin-right: 60px;
+display: inline-block;
+}
